@@ -1,0 +1,5 @@
+SAVE_FILE = "pomodorro.db"
+WORK = 25
+REST = 5
+BIGREST = 25
+ONE_SECOND = 1
